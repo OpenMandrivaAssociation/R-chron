@@ -2,17 +2,16 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          2.3_41
+Version:          2.3_42
 Release:          1
 Summary:          Chronological objects which can handle dates and times
 Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/Archive/%{packname}/%{packname}_2.3-41.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/%{packname}_2.3-42.tar.gz
 Requires:         R-graphics R-stats 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    R-graphics R-stats 
-%rename R-cran-chron
 
 %description
 Chronological objects which can handle dates and times
