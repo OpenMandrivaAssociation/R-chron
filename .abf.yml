@@ -1,2 +1,4 @@
+removed_sources:
+  chron_2.3-42.tar.gz: 5e44e98c3c45de8c56028c35e263d1db16f01579
 sources:
-  "chron_2.3-42.tar.gz": 5e44e98c3c45de8c56028c35e263d1db16f01579
+  chron_2.3-44.tar.gz: 4fbcb06693876f7173deace9de60782b57f3ac1b
