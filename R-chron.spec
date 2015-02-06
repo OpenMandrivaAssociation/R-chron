@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.3.44
-Release:          1
+Release:          2
 Summary:          Chronological objects which can handle dates and times
 Group:            Sciences/Mathematics
 License:          GPL-2
